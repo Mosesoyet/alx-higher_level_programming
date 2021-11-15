@@ -1,2 +1,2 @@
-#!/bin/bash/python3
+#!/user/bin/python3
 print('"The Zen of Python", by TimPeters')

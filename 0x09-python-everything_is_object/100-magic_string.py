@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 def magic_string():
-    for i in range(10):
-        print("Best School")
+    i = 0
+    return (print("Best School") for i in range(10))
+magic_string()

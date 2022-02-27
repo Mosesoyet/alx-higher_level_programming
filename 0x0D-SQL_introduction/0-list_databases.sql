@@ -1,3 +1,3 @@
----List all the informations in database---
+---List all the informations in database.
 
-SHOW DATABASE;
+SHOW DATABASES;

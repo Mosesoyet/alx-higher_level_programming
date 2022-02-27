@@ -4,5 +4,5 @@
 -- Records should be listed by descending score
 
 SELECT score, name FROM second_table
-WHERE name EXISTS
-ORDER BY score DESC
+IF name EXISTS
+ORDER BY score DESC;

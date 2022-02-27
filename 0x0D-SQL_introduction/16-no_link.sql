@@ -4,5 +4,5 @@
 -- Records should be listed by descending score
 
 SELECT score, name FROM second_table
-IF name EXISTS
+WHERE name IS NOT NULL AND name != ''
 ORDER BY score DESC;

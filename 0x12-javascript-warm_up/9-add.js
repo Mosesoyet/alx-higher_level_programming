@@ -1,5 +1,4 @@
 #!/usr/bin/node
-'use strict';
 function add (a, b) {
 	let result = a + b;
 	console.log(result);

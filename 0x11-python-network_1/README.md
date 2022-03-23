@@ -1,6 +1,6 @@
 # Python networking
 
-This project followed the previous networking project
+**This project followed the previous networking project
 
 ## General
 

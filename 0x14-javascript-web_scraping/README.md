@@ -23,3 +23,5 @@ $ sudo npm install semistandard --global
 $ sudo npm install request --global
 
 $ export NODE_PATH=/usr/lib/node_modules
+
+More soon

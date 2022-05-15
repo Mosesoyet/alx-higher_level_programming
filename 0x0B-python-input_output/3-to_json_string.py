@@ -2,6 +2,7 @@
 """
 A program that returns JSON representation of an object(string)
 """
+import json
 
 
 def to_json_string(my_obj):

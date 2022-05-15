@@ -7,4 +7,4 @@ import json
 
 def from_json_string(my_string):
     """Function that returns string from json file"""
-    return json.load(my_string)
+    return json.loads(my_string)

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-'''task 14 module'''
+'''task 14 module
+'''
 
 
 from sys import stdin
